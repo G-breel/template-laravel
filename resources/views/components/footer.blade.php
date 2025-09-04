@@ -13,7 +13,7 @@
             target="_blank"
             class="text-blue-600 hover:underline"
         >
-            Ahmed Kamel
+           jibril fathanneo
         </a>
     </p>
 </footer>
